@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1400123469 source:d:\codeblocks\blocks\codeblocks\projects\remotefilemanager_v1.0\remotefilemanager.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"RemoteFileManager.h"
+
+1400121883 d:\codeblocks\blocks\codeblocks\projects\remotefilemanager_v1.0\remotefilemanager.h
+	<windows.h>
+	<winsock2.h>
+	<gtk/gtk.h>
+	<ctype.h>
+
+1399475967 source:d:\codeblocks\blocks\codeblocks\projects\remotefilemanager_v1.0\socket.cpp
+	"RemoteFileManager.h"
+
